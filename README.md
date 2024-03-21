@@ -16,7 +16,7 @@ View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-th
 
 See instalation guide on [Jekyll docs](https://jekyllrb.com/docs/).
 
-### How-To
+### How-To test
 
 ```bash
 bundle exec jekyll serve
